@@ -22,7 +22,7 @@
 启用自己项目下的 Action！
 ![30a5b1b2b06ba4a40a3d8ef01652409](https://user-images.githubusercontent.com/9566402/183242334-9943c538-ba3d-4d01-8377-d040143b7560.png)
 
-如果运行出现错误，按以下方法可以看到错误，在这里 issue 提问也可以，在小红书问也可以
+如果运行出现错误，按以下方法可以看到错误，在这里 issue 提问也可以，在公众号问也可以，原作者的部分bug已修复
 ![6b0da6f44e18c2bfd94910c377d13e6](https://user-images.githubusercontent.com/9566402/183242349-1aa5ada6-2ee7-4cf9-a542-4b2dad88b8fe.png)
 
 启用后可以直接运行，看看女朋友的手机有没有收到推送吧！
